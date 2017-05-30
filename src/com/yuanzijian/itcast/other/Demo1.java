@@ -3,6 +3,8 @@ package com.yuanzijian.itcast.other;
 import java.util.Arrays;
 import java.util.Properties;
 
+
+
 /*
  System  系统类 主要用于获取系统的属性数据。
  	
